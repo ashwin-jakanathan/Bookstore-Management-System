@@ -98,6 +98,37 @@ Bookstore-Management-System/
 ## 💻 How to Run
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/ashwinjakanathan/Bookstore-Management-System.git
-   cd Bookstore-Management-System
+```bash
+git clone https://github.com/ashwin-jakanathan/Bookstore-Management-System.git
+cd Bookstore-Management-System
+```
+2. **Open in your preferred IDE**
+- Recommended: IntelliJ IDEA, Eclipse, or VS Code (with the JavaFX plugin installed).
+
+3. **Configure JavaFX (if needed)**
+- Ensure you’re using **JDK 17 or newer**.  
+- Add the JavaFX library to your project if your IDE doesn’t detect it automatically.  
+- In IntelliJ, go to:  
+     `File → Project Structure → Libraries → + → JavaFX SDK`
+
+4. **Run the Application**
+
+- Navigate to the file:
+     `src/BookStore/Main.java`
+- Click Run (in your IDE), or execute this command in the terminal:
+```bash
+java src/BookStore/Main.java
+```
+5. **Login Credentials**
+
+- Admin:
+
+  - Username: admin
+
+  - Password: admin
+
+- Customer:
+
+  - Username: customer1
+
+  - Password: 123
