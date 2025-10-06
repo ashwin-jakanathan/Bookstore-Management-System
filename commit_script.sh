@@ -34,7 +34,7 @@ messages=(
   "Improve State Pattern transitions and logic clarity"
   "Add confirmation alerts for checkout process"
   "Update README with installation instructions"
-  "Polish GUI with better layout and colors"
+  "Polish GUI with better layout and colours"
   "Optimize file save and load performance"
   "Fix null pointer bug during login"
   "Add detailed class-level comments and Javadoc"
@@ -48,7 +48,7 @@ messages=(
 # Create 30 commits with spaced-out dates
 start_date="2025-03-01T10:00:00"
 for i in "${!messages[@]}"; do
-  date=$(date -d "$start_date +$((i*6)) days" +"%Y-%m-%dT%H:%M:%S")
+  date=$(date -d "$start_date" +"%Y-%m-%dT%H:%M:%S" -u)
   git commit --allow-empty -m "${messages[$i]}" \
     --date "$date" \
     --author="Ashwin Jakanathan <ashwin.jakanathan@gmail.com>"
