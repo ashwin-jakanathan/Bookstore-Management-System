@@ -1,0 +1,50 @@
+Harry Potter and the Philosopher's Stone,100.0
+The Hobbit,100.0
+1984,50.0
+Brave New World,50.0
+To Kill a Mockingbird,100.0
+The Great Gatsby,100.0
+Lord of the Flies,50.0
+Catch-22,100.0
+The Catcher in the Rye,100.0
+Animal Farm,50.0
+Fahrenheit 451,100.0
+The Giver,50.0
+Ender's Game,100.0
+Dune,200.0
+The Hunger Games,100.0
+The Maze Runner,100.0
+Divergent,100.0
+Percy Jackson: The Lightning Thief,100.0
+Eragon,100.0
+Mistborn,200.0
+Warbreaker,200.0
+The Final Empire,200.0
+Elantris,200.0
+The Way of Kings,500.0
+Words of Radiance,500.0
+Oathbringer,500.0
+Rhythm of War,500.0
+A Game of Thrones,500.0
+A Clash of Kings,500.0
+A Storm of Swords,500.0
+A Feast for Crows,500.0
+A Dance with Dragons,500.0
+The Winds of Winter,500.0
+Gone Girl,100.0
+The Girl on the Train,100.0
+The Da Vinci Code,200.0
+Angels and Demons,200.0
+Inferno,200.0
+Digital Fortress,200.0
+Deception Point,200.0
+Sherlock Holmes: The Hound of the Baskervilles,50.0
+Sherlock Holmes: A Study in Scarlet,50.0
+Sherlock Holmes: The Sign of Four,50.0
+Sherlock Holmes: The Valley of Fear,50.0
+Frankenstein,50.0
+Dracula,50.0
+The Picture of Dorian Gray,50.0
+Pride and Prejudice,100.0
+Emma,100.0
+Sense and Sensibility,100.0
