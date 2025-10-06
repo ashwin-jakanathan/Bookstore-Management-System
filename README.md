@@ -1,7 +1,7 @@
 # Bookstore Management Application
 
-A JavaFX-based bookstore system developed for **COE528 (Object-Oriented Analysis and Design)** at Toronto Metropolitan University.  
-This project demonstrates strong software design principles, object-oriented programming, and the implementation of multiple design patterns including the **State Pattern**.
+A JavaFX-based bookstore management system demonstrating object-oriented design principles, modular architecture, and the State Pattern for dynamic customer rewards.
+This project demonstrates strong software design principles, object-oriented programming, and the implementation of multiple design patterns, including the **State Pattern**.
 
 ---
 
