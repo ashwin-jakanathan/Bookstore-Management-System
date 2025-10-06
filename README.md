@@ -1,5 +1,10 @@
 # Bookstore Management Application
 
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![JavaFX](https://img.shields.io/badge/Framework-JavaFX-green)
+![OOP](https://img.shields.io/badge/Concepts-OOP%20%7C%20State%20Pattern-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+
 A JavaFX-based bookstore management system demonstrating object-oriented design principles, modular architecture, and the State Pattern for dynamic customer rewards.
 This project demonstrates strong software design principles, object-oriented programming, and the implementation of multiple design patterns, including the **State Pattern**.
 
@@ -65,9 +70,32 @@ Full UML diagrams are included in the `/docs` folder:
 
 ---
 
+   ## 📚 Documentation
+- [Class Diagram](./docs/BookStoreClassDiagram.pdf)
+- [Use Case Diagram](./docs/Use%20Case%20Diagram%20For%20Book%20Store%20App.pdf)
+
+---
+
+## 🗂️ Repository Structure
+```
+Bookstore-Management-System/
+├── src/BookStore/
+│   ├── Main.java
+│   ├── Customer.java
+│   ├── Owner.java
+│   ├── Book.java
+│   └── ...
+├── docs/
+│   ├── BookStoreClassDiagram.pdf
+│   └── Use Case Diagram For Book Store App.pdf
+├── LICENSE
+└── README.md
+```
+---
+
 ## 💻 How to Run
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/ashwinjakanathan/Bookstore-Management-App.git
-   cd Bookstore-Management-App
+   git clone https://github.com/ashwinjakanathan/Bookstore-Management-System.git
+   cd Bookstore-Management-System
