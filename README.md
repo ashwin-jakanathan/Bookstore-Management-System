@@ -5,8 +5,10 @@
 ![OOP](https://img.shields.io/badge/Concepts-OOP%20%7C%20State%20Pattern-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-A JavaFX-based bookstore management system demonstrating object-oriented design principles, modular architecture, and the State Pattern for dynamic customer rewards.
-This project demonstrates strong software design principles, object-oriented programming, and the implementation of multiple design patterns, including the **State Pattern**.
+A **JavaFX-based bookstore management system** built to demonstrate solid **object-oriented design principles**, **modular architecture**, and the **State Pattern** for dynamic customer rewards.
+
+This project integrates multiple OOP concepts — including inheritance, encapsulation, and polymorphism — while showcasing professional JavaFX UI development and design pattern implementation.
+
 
 ---
 
